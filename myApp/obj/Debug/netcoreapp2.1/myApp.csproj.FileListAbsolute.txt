@@ -1,0 +1,12 @@
+C:\myApp\myApp\myApp\bin\Debug\netcoreapp2.1\iris-data.txt
+C:\myApp\myApp\myApp\bin\Debug\netcoreapp2.1\myApp.deps.json
+C:\myApp\myApp\myApp\bin\Debug\netcoreapp2.1\myApp.runtimeconfig.json
+C:\myApp\myApp\myApp\bin\Debug\netcoreapp2.1\myApp.runtimeconfig.dev.json
+C:\myApp\myApp\myApp\bin\Debug\netcoreapp2.1\myApp.dll
+C:\myApp\myApp\myApp\bin\Debug\netcoreapp2.1\myApp.pdb
+C:\myApp\myApp\myApp\obj\Debug\netcoreapp2.1\myApp.csprojAssemblyReference.cache
+C:\myApp\myApp\myApp\obj\Debug\netcoreapp2.1\myApp.csproj.CoreCompileInputs.cache
+C:\myApp\myApp\myApp\obj\Debug\netcoreapp2.1\myApp.AssemblyInfoInputs.cache
+C:\myApp\myApp\myApp\obj\Debug\netcoreapp2.1\myApp.AssemblyInfo.cs
+C:\myApp\myApp\myApp\obj\Debug\netcoreapp2.1\myApp.dll
+C:\myApp\myApp\myApp\obj\Debug\netcoreapp2.1\myApp.pdb
